@@ -1,0 +1,17 @@
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\bin\Debug\net6.0\AssignmentH.exe
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\bin\Debug\net6.0\AssignmentH.deps.json
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\bin\Debug\net6.0\AssignmentH.runtimeconfig.json
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\bin\Debug\net6.0\AssignmentH.dll
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\bin\Debug\net6.0\AssignmentH.pdb
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.csproj.AssemblyReference.cache
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.AssemblyInfoInputs.cache
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.AssemblyInfo.cs
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.csproj.CoreCompileInputs.cache
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.dll
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\refint\AssignmentH.dll
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.pdb
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.genruntimeconfig.cache
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\ref\AssignmentH.dll
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Eduard Šimek\source\repos\AssignmentH\AssignmentH\obj\Debug\net6.0\AssignmentH.csproj.CopyComplete
